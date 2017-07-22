@@ -6,6 +6,7 @@
  
   This example code is in the public domain.
   iss_01
+  iss_02
  */
  
 // Pin 13 has an LED connected on most Arduino boards.
