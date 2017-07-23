@@ -21,6 +21,7 @@
 /*
   Remote_01
   Remote_02
+  Remote_03
 */
 
 // Pin 13 has an LED connected on most Arduino boards.
