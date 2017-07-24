@@ -11,6 +11,7 @@
 
 /*
     remote_01
+    remote_02
 */
 
 #include <Servo.h> 
