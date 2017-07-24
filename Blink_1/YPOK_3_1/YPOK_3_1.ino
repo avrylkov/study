@@ -16,7 +16,9 @@
 /*
     remote_01
     remote_02
+    remote_03
 	master_01
+	master_02
 */
 
 #include <Servo.h> 
